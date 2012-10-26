@@ -17,6 +17,13 @@ email:
   server: 127.0.0.1
   subject: '[pystemon] - {subject}'
 
+wordpress:
+  publish: no           # Enable/disable wordpress articles
+  site: 127.0.0.1
+  login: pastemon
+  password: foobar
+  category: pastemon
+
 #####
 # Definition of regular expressions to search for in the pasties
 # 
